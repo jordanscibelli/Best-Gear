@@ -1,7 +1,7 @@
 site:
   title: Best Gear
   url: https://demo.bestgear.org
-  start_page: best-gear-documentation::index.adoc
+  start_page: best-gear::index.adoc
 content:
   sources:
     - url: https://github.com/jordanscibelli/Best-Gear-Documentation.git
